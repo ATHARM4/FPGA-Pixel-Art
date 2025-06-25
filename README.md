@@ -63,20 +63,20 @@ A real-time pixel-art drawing tool implemented in Verilog, designed for FPGA pla
 - Quartus Prime / ModelSim / Questa
 
 ## 📸 Preview  
-(Images/Blank.jpg)
+![Blank](Images/Blank.jpg)
 *Startup Screen*
 
-(Images/Brush.jpg)
+![Brush](Images/Brush.jpg)
 *Brush Applied / in Hand*
 
-(Images/Eraser.jpg)
+![Eraser](Images/Eraser.jpg)
 *Eraser Applied / in Hand*
 
-(Images/Fill.jpg)
+![Fill](Images/Fill.jpg)
 *Fill Applied / in Hand*
 
-(images/Clear.jpg)
+![Clear](images/Clear.jpg)
 *Clear Applied*
 
-(Images/Brightness.jpg)
+![Brightness](Images/Brightness.jpg)
 *Color Brightness Example*
