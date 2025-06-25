@@ -75,7 +75,7 @@ A real-time pixel-art drawing tool implemented in Verilog, designed for FPGA pla
 ![Fill](Images/Fill.jpg)
 *Fill Applied / in Hand*
 
-![Clear](images/Clear.jpg)
+![Clear](Images/Clear.jpg)
 *Clear Applied*
 
 ![Brightness](Images/Brightness.jpg)
